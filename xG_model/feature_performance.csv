@@ -1,0 +1,111 @@
+pred,score
+avg speed-a,0.2600994478646137
+avg speed-b,0.2502390240551071
+time most back-b,0.1865664187298517
+time most forward-a,0.1774764542838423
+time most forward-b,0.16898616095440744
+shots-a,0.12762964593121295
+shots conceded-a,0.11438310352098346
+total distance-a,0.10580270358763577
+time most back-a,0.09492188336806007
+total distance-b,0.08385273853725472
+time defensive third-a,0.07842437339677566
+time in front of ball-b,0.07299193524811576
+percentage slow speed-b,0.06835190716944739
+time defensive third-b,0.06604604691850413
+time behind ball-b,0.0619937213164119
+percentage offensive third-a,0.05735285857525696
+time slow speed-b,0.05652325514627177
+avg distance to ball has possession-b,0.05323399782121552
+time defensive half-b,0.05140961862411286
+percentage supersonic speed-a,0.051266985895751516
+percentage slow speed-a,0.04693366995420645
+time defensive half-a,0.04605637322507361
+time slow speed-a,0.04435934218361237
+avg distance to ball-b,0.04417969460319826
+percentage boost speed-a,0.039373988277137784
+percentage behind ball-b,0.038127250196458684
+time in front of ball-a,0.037746544142454264
+time low in air-b,0.035441410592619293
+percentage defensive third-a,0.034544477797582074
+percentage supersonic speed-b,0.030140733245956897
+count stolen small pads-b,0.02959048307348444
+time neutral third-b,0.0276480991273107
+time on ground-b,0.025206278137451354
+percentage in front of ball-a,0.025164303602355442
+time high in air-b,0.024231701672527084
+amount collected big pads-a,0.02372623706896093
+time low in air-a,0.02286273298338981
+amount overfill total-b,0.02073514291405676
+percentage boost speed-b,0.020640887367897376
+demos inflicted-a,0.01898373577247292
+avg boost amount-a,0.018183381709759527
+time high in air-a,0.016905514522107312
+avg boost amount-b,0.0160365827000013
+avg distance to ball-a,0.016012912262275414
+time on ground-a,0.015995250565212338
+percentage high in air-a,0.015861795095133413
+time offensive half-a,0.01503933598900975
+percentage high in air-b,0.01366317941225037
+time neutral third-a,0.013472830133269165
+amount collected-b,0.013169473827139289
+time supersonic speed-b,0.012942685618645644
+percentage defensive third-b,0.012919158632742622
+percentage defensive half-b,0.012544278847838042
+time behind ball-a,0.012513152125542826
+time powerslide-b,0.012421618512244992
+count stolen small pads-a,0.012170975031400966
+amount stolen small pads-a,0.01194883269164082
+time boost speed-a,0.0115950263945509
+avg powerslide time-a,0.011485649235505546
+amount stolen small pads-b,0.010896056439697155
+count collected small pads-a,0.010605363781655885
+amount collected small pads-b,0.010544100146723467
+time offensive third-a,0.010421698626385423
+amount collected big pads-b,0.010406430921768295
+percentage defensive half-a,0.010230057490632882
+avg distance to ball has possession-a,0.009809412529368955
+amount overfill stolen-b,0.009359120126213538
+demos taken-a,0.009199807622666034
+percentage behind ball-a,0.008652797978198068
+0 boost time-a,0.008438982916081028
+count powerslide-a,0.008342421087796037
+bpm-b,0.008119240568442931
+count powerslide-b,0.008026808940244878
+percentage offensive third-b,0.0077235997579423454
+amount overfill stolen-a,0.007660651478935576
+amount overfill total-a,0.007375136386132075
+avg powerslide time-b,0.006502361550712044
+percentage offensive half-b,0.006285839292612949
+time offensive third-b,0.005478642166369951
+amount used while supersonic-a,0.005464752501438963
+count collected small pads-b,0.005392740477558888
+percentage on ground-a,0.004838995753172481
+avg distance to ball no possession-a,0.00453135925790904
+0 boost time-b,0.0044087408828656915
+amount collected small pads-a,0.004239928884572031
+percentage neutral third-a,0.004116854942248671
+count collected big pads-a,0.003953991185624228
+time offensive half-b,0.003938004915593263
+count collected big pads-b,0.003418266578837592
+percentage low in air-b,0.003313708081277511
+amount stolen-a,0.0029243997635450825
+100 boost time-a,0.002459914845949318
+count stolen big pads-b,0.001976983892769235
+time boost speed-b,0.0014456261359410139
+percentage in front of ball-b,0.0011234726697562092
+percentage offensive half-a,0.0008156925835232087
+percentage neutral third-b,-0.0010811266792269958
+amount stolen big pads-b,-0.001637697030330898
+percentage on ground-b,-0.001721293009704361
+percentage low in air-a,-0.0021771122863794012
+amount used while supersonic-b,-0.0021892556073479508
+count stolen big pads-a,-0.002409600628138109
+avg distance to ball no possession-b,-0.002424212202729814
+amount stolen big pads-a,-0.002660970289925624
+amount stolen-b,-0.0034468417044997146
+time powerslide-a,-0.0037810178843749043
+time supersonic speed-a,-0.004939133010841257
+bpm-a,-0.005197168635465266
+amount collected-a,-0.005657251316298351
+100 boost time-b,-0.008957474775500351
