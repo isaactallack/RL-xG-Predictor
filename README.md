@@ -17,5 +17,9 @@ Uses statistics from ballchasing.com, such as:
 'create_frames.py' - merges and filters all replay statistic files creating 'combined_data.csv', 'filtered_data.csv', 'raw_train.csv' and 'train.csv'. Only 'train.csv' is of interest. This contains all feature points + the goals scored/conceded (for training/validation).
       
 '/xG_model/model.py' - this is the Tensorflow training model and create the model for predictions.
+
+The model architecture:
+
+
       
 'predict.py' - use this to predict the results from 'train.csv'.
