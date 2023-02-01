@@ -16,7 +16,7 @@ Uses statistics from ballchasing.com, such as:
     
 'create_frames.py' - merges and filters all replay statistic files creating 'combined_data.csv', 'filtered_data.csv', 'raw_train.csv' and 'train.csv'. Only 'train.csv' is of interest. This contains all feature points + the goals scored/conceded (for training/validation).
       
-'/xG_model/model.py' - this is the Tensorflow training model and create the model for predictions.
+'/xG_model/model.py' - this is the Tensorflow training model and create the model for predictions. The 'feature_importance.csv' shows the result of running Permutation Feature Importance on the model.
 
 The model architecture:
 
@@ -29,3 +29,7 @@ The model architecture:
 In this case, team A has a 89% chance of winning the game. 
 
 'predict.py' - use this to predict the results from 'train.csv'.
+
+Example of the Discord bot in action:
+
+![Discord Bot](https://github.com/isaactallack/RL-xG-Predictor/blob/main/images/discord_output.png?raw=true)
