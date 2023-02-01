@@ -14,7 +14,7 @@ Uses statistics from ballchasing.com, such as:
 
 'main.py' - takes a URL from ballchasing.com and downloads all replays on the page currently displayed. Make sure to delete all files from the 'csvs' folder before using this otherwise they will not be saved!
     
-'create_frames.py' - merges and filters all replay statistic files creating 'combined_data.csv', 'filtered_data.csv', 'raw_train.csv' and 'train.csv'. Only 'train.csv' is of interest. This contains all feature points + the result (for training/validation) and the goal difference (this is not used and discarded but was included for some testing of loss functions).
+'create_frames.py' - merges and filters all replay statistic files creating 'combined_data.csv', 'filtered_data.csv', 'raw_train.csv' and 'train.csv'. Only 'train.csv' is of interest. This contains all feature points + the goals scored/conceded (for training/validation).
       
 '/xG_model/model.py' - this is the Tensorflow training model and create the model for predictions.
       
