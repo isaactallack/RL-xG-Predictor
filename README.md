@@ -20,6 +20,6 @@ Uses statistics from ballchasing.com, such as:
 
 The model architecture:
 
-
+![Model Architecture](https://github.com/isaactallack/RL-xG-Predictor/blob/main/images/isaac.h5.svg?raw=true)
       
 'predict.py' - use this to predict the results from 'train.csv'.
