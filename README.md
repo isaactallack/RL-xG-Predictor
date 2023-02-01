@@ -20,6 +20,12 @@ Uses statistics from ballchasing.com, such as:
 
 The model architecture:
 
+![Model Architecture](https://github.com/isaactallack/RL-xG-Predictor/blob/main/images/isaac.h5.svg?raw=true)
+   
+'poisson.py' is used to model the scoring of goals as a Poisson distribution when the distribution is centered around the xG or each team. Then by comparing the probabilities of scoring x goals at each point you can calculate the probability that a team won the game. An example of what this might look like if team A had an xG or 2.8 and team B had an xG of 0.6:
 
-      
+![Model Architecture](https://github.com/isaactallack/RL-xG-Predictor/blob/main/images/poisson.png?raw=true)
+
+In this case, team A has a 89% chance of winning the game. 
+
 'predict.py' - use this to predict the results from 'train.csv'.
